@@ -33,4 +33,6 @@ Then open `http://localhost:4173`.
 - StoryLoom autosaves your current project in the browser's local storage.
 - Use **Choose Save Directory** in Chromium-based browsers to save the project JSON to a folder you select.
 - Use **Save Project** to write/download the project file.
+- Use **Load Project** to open a previously saved `.storyloom.json` or JSON project file.
+- Use **Recent Projects** to quickly reopen recent local snapshots saved by this browser.
 - Use **Compile PDF** to export manuscript matter only; planning notes, scene notes, beat notes, and reminders are not compiled.
