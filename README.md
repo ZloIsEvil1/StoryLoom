@@ -36,3 +36,10 @@ Then open `http://localhost:4173`.
 - Use **Load Project** to open a previously saved `.storyloom.json` or JSON project file.
 - Use **Recent Projects** to quickly reopen recent local snapshots saved by this browser.
 - Use **Compile PDF** to export manuscript matter only; planning notes, scene notes, beat notes, and reminders are not compiled.
+
+
+## Conveyor-belt planning
+
+Click **New Chapter** to create a chapter and enter conveyor-belt mode immediately, or click **Conveyor** to plan the current chapter. The flow starts with chapter notes, moves to scene notes, then beat notes. Use **Next Beat**, **Done With Scene**, **New Scene**, and **Done Chapter** to move through planning without switching panels.
+
+StoryLoom labels beats as `part.chapter.scene.beat`; for example, Part 1, Chapter 3, Scene 2, Beat 4 appears as `1.3.2.4`.
